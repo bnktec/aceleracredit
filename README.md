@@ -14,7 +14,6 @@ O arquivo é autossuficiente: a logo está incorporada (não exige pasta de imag
 
 - **Setas**, **Page Up/Page Down** ou **barra de espaço** para navegar.
 - Botão **Apresentar** para tela cheia.
-- Botão **Imprimir** para gerar PDF pelo navegador.
 
 ## 📁 Arquivos
 

@@ -12,4 +12,3 @@ Publicação:
 Controles:
 - Setas, Page Up/Page Down ou barra de espaço para navegar.
 - Botão “Apresentar” para tela cheia.
-- Botão “Imprimir” para gerar PDF pelo navegador.
